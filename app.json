@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ButtonTheCoat",
+    "slug": "button-the-coat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "buttonthecoat",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.buttonthecoat",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Button the Coat",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4E8EA",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

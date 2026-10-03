@@ -1,0 +1,5 @@
+Button the Coat privacy
+
+Button the Coat stores the current coat on this phone. Zero, one, two, or three buttons are shut, always from the bottom.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, or a network connection. Nothing is sent off the phone.
